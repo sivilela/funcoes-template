@@ -1,5 +1,3 @@
-# funcoes-template
-
 # Funções - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
